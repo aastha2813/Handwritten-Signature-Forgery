@@ -1,0 +1,24 @@
+﻿# Large datasets and archives
+archive.zip
+dataset_extracted/
+dataset_synthetic/
+
+# Generated outputs and model files
+outputs/
+*.joblib
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
